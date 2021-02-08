@@ -1,0 +1,26 @@
+_repo: Paisajes-Argentinos_64418
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Salaverría, José María
+    alias: Salaverria, Jose Maria
+    birthdate: 1873
+    deathdate: 1940
+    gutenberg_agent_id: '51654'
+    url: http://www.gutenberg.org/2009/agents/51654
+    wikipedia:
+    - https://es.wikipedia.org/wiki/Jos%C3%A9_Mar%C3%ADa_Salaverr%C3%ADa
+    - https://en.wikipedia.org/wiki/Jos%C3%A9_Mar%C3%ADa_Salaverr%C3%ADa
+description: ''
+gutenberg_issued: '2021-01-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '64418'
+language: es
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Paisajes Argentinos
+url: http://www.gutenberg.org/ebooks/64418
